@@ -122,12 +122,12 @@ public class MainDay3 {
             if (oxygen.size() == 1) {
                 break;
             }
-                int finalJ = i;
-                if (moreOnes(oxygen, i)) {
-                    oxygen.removeIf(x -> x.charAt(finalJ) == '0');
-                } else {
-                    oxygen.removeIf(x -> x.charAt(finalJ) == '1');
-                }
+            int finalJ = i;
+            if (moreOnes(oxygen, i)) {
+                oxygen.removeIf(x -> x.charAt(finalJ) == '0');
+            } else {
+                oxygen.removeIf(x -> x.charAt(finalJ) == '1');
+            }
         }
 
     }
