@@ -144,6 +144,8 @@ public class MainDay4 {
         int delta = 1000;
         int result;
 
+
+
         for (int i = 0; i < values.length; i++) {
 
             searchedNum = values[i];
