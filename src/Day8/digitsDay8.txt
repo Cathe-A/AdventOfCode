@@ -1,0 +1,10 @@
+0: aaaabbcceeffgggg
+1: ccff
+2: aaaaccddddeegggg
+3: aaaaccddddffgggg
+4: bbccddddff
+5: aaaabbddddffgggg
+6: aaaabbddddeeffgggg
+7: aaaaccff
+8: aaaabbccddddeeffgggg
+9: aaaabbccddddffgggg
